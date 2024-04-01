@@ -12,7 +12,7 @@ The primary goal of this case study is to analyze the e-commerce landscape in Br
 - Assessing the overall impact of e-commerce on the economy
 
 ### **Skills Utilized:**
-SQL, Data Analysis, E-commerce and Marketing Domain Knowledge
+SQL, Google BigQuery, Data Analysis, E-commerce and Marketing Domain Knowledge
 
 ### **Description**:
 Through the utilization of SQL queries, I dissected Target's e-commerce data to extract meaningful insights. 
